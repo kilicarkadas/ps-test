@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  ordering:
+    image: ordering
+    build:
+      context: .
+      dockerfile: Ordering/Dockerfile
