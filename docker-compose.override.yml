@@ -1,4 +1,4 @@
-version: '3'
+version: '3.4'
 
 services:
   ordering:
@@ -6,3 +6,10 @@ services:
       - ASPNETCORE_ENVIRONMENT=Development
     ports:
       - "80"
+
+  ordering-api:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "80"
+

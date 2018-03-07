@@ -1,4 +1,4 @@
-version: '3'
+version: '3.4'
 
 services:
   ordering:
@@ -6,3 +6,10 @@ services:
     build:
       context: .
       dockerfile: Ordering/Dockerfile
+
+  ordering-api:
+    image: orderingapi
+    build:
+      context: .
+      dockerfile: Ordering-Api/Dockerfile
+

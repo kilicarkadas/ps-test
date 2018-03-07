@@ -1649,7 +1649,7 @@
       ]
     },
     "Microsoft.CSharp/4.0.1": {
-      "sha512": "4qh/rM4sg2HTRe3PqPN2TrcfXMm/v9H+7ILXpTAM1++qopWs8ULtB9GXHw8eQUDMIgiBDDc0ii6aGQJypNOxpw==",
+      "sha512": "17h8b5mXa87XYKrrVqdgZ38JefSUqLChUQpXgSnpzsM0nDOhE40FTeNWOJ/YmySGV6tG6T8+hjz6vxbknHJr6A==",
       "type": "package",
       "path": "microsoft.csharp/4.0.1",
       "files": [
@@ -2086,7 +2086,7 @@
       ]
     },
     "Microsoft.NETCore.Targets/1.1.0": {
-      "sha512": "9a7cbdL5PCWu/VV9hw0ITSwlTH6Xfj+dtHE2PM7qYL0XlyvtGrQpeU623avMJ94CwcsiI8uv6cjWufLPhWMwCg==",
+      "sha512": "aOZA3BWfz9RXjpzt0sRJJMjAscAUm3Hoa4UWAfceV9UTYxgwZ1lZt5nO2myFf+/jetYQo4uTP7zS8sJY67BBxg==",
       "type": "package",
       "path": "microsoft.netcore.targets/1.1.0",
       "files": [
@@ -2779,7 +2779,7 @@
       ]
     },
     "System.Collections.Immutable/1.2.0": {
-      "sha512": "KTU3fj5PwaE0s4J4pwnDKYsgktOXeX7Yyz6xyIYKy5+AZJS7CflPh4BEFM9ceBQdnt0gJs1VcEgfT25+PAkqdQ==",
+      "sha512": "Cma8cBW6di16ZLibL8LYQ+cLjGzoKxpOTu/faZfDcx94ZjAGq6Nv5RO7+T1YZXqEXTZP9rt1wLVEONVpURtUqw==",
       "type": "package",
       "path": "system.collections.immutable/1.2.0",
       "files": [
@@ -3294,7 +3294,7 @@
       ]
     },
     "System.Diagnostics.TraceSource/4.0.0": {
-      "sha512": "q33vgy/m9V0CP8Sp9TeRXKyLZa2f6hd1KjjfRJ6R+OdrPMajjpMvethhkXE8tiLbmODvZ5yVkkH1efEGarMb4Q==",
+      "sha512": "6WVCczFZKXwpWpzd/iJkYnsmWTSFFiU24Xx/YdHXBcu+nFI/ehTgeqdJQFbtRPzbrO3KtRNjvkhtj4t5/WwWsA==",
       "type": "package",
       "path": "system.diagnostics.tracesource/4.0.0",
       "files": [
@@ -3421,7 +3421,7 @@
       ]
     },
     "System.Dynamic.Runtime/4.0.11": {
-      "sha512": "WTe6L9NhI8JOBvofvkiktLjkXlUFq/dwsZt5zvc/R3t2a3Hj+i155ywQ8Tv1TMxLQ8tVC//J6XlfefusZ5Hlwg==",
+      "sha512": "db34f6LHYM0U0JpE+sOmjar27BnqTVkbLJhgfwMpTdgTigG/Hna3m2MYVwnFzGGKnEJk2UXFuoVTr8WUbU91/A==",
       "type": "package",
       "path": "system.dynamic.runtime/4.0.11",
       "files": [
@@ -3967,7 +3967,7 @@
       ]
     },
     "System.Private.DataContractSerialization/4.1.1": {
-      "sha512": "dxL9AEwhdE1AM/14WEro4L7/gdlm2HuHM9u7S63+YAxGIqQarVKdkFGwg40wIzhbDVyUMDjfEvHnMmtYf+dNQA==",
+      "sha512": "lcqFBUaCZxPiUkA4dlSOoPZGtZsAuuElH2XHgLwGLxd7ZozWetV5yiz0qGAV2AUYOqw97MtZBjbLMN16Xz4vXA==",
       "type": "package",
       "path": "system.private.datacontractserialization/4.1.1",
       "files": [
@@ -4207,7 +4207,7 @@
       ]
     },
     "System.Reflection.Metadata/1.3.0": {
-      "sha512": "ZeiEYocitqltCMU7MepqN/iPQQ1tQim0AObNS2cB184VjDqp6DiEpAYCcxQE/oLTOOsy+Ue7xlGMtKTWolOP4g==",
+      "sha512": "jMSCxA4LSyKBGRDm/WtfkO03FkcgRzHxwvQRib1bm2GZ8ifKM1MX1al6breGCEQK280mdl9uQS7JNPXRYk90jw==",
       "type": "package",
       "path": "system.reflection.metadata/1.3.0",
       "files": [
@@ -4742,7 +4742,7 @@
       ]
     },
     "System.Runtime.Serialization.Json/4.0.2": {
-      "sha512": "tt4mlm2fsGRvIyWgHqXdAlReAPQ8fYspvLmbo32MnTDBj1Fgpxw6tMPy76iuaIFVSaDGPNjyNAn7vKiWdRIzDw==",
+      "sha512": "+7DIJhnKYgCzUgcLbVTtRQb2l1M0FP549XFlFkQM5lmNiUBl44AfNbx4bz61xA8PzLtlYwfmif4JJJW7MPPnjg==",
       "type": "package",
       "path": "system.runtime.serialization.json/4.0.2",
       "files": [
@@ -4799,7 +4799,7 @@
       ]
     },
     "System.Runtime.Serialization.Primitives/4.1.1": {
-      "sha512": "kbakwb7slz1vf9QWmej+D/ydQEQsyXShzPN0uqzS88+cjgJbU2Ou8/qQ0HOZp/LzmYh1EsRTsjjfVY7AX0V6tQ==",
+      "sha512": "HZ6Du5QrTG8MNJbf4e4qMO3JRAkIboGT5Fk804uZtg3Gq516S7hAqTm2UZKUHa7/6HUGdVy3AqMQKbns06G/cg==",
       "type": "package",
       "path": "system.runtime.serialization.primitives/4.1.1",
       "files": [
@@ -5485,7 +5485,7 @@
       ]
     },
     "System.Xml.XmlSerializer/4.0.11": {
-      "sha512": "0rUIhpGLSyfvCKlsMqNjippOYJZLyieOl3mTOWcxqOLdWxQgAE8X1FE8NuqoWRR4Z4J4La5+a1RDHZnm66IJvg==",
+      "sha512": "FrazwwqfIXTfq23mfv4zH+BjqkSFNaNFBtjzu3I9NRmG8EELYyrv/fJnttCIwRMFRR/YKXF1hmsMmMEnl55HGw==",
       "type": "package",
       "path": "system.xml.xmlserializer/4.0.11",
       "files": [
@@ -5636,33 +5636,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\arkadas.killic\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/arki/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Core\\Ordering-Tests\\Ordering-Tests.csproj",
+      "projectUniqueName": "/Users/arki/Repos/kilicarkadas/ps-test.git/Ordering-Tests/Ordering-Tests.csproj",
       "projectName": "Ordering-Tests",
-      "projectPath": "C:\\Core\\Ordering-Tests\\Ordering-Tests.csproj",
-      "packagesPath": "C:\\Users\\arkadas.killic\\.nuget\\packages\\",
-      "outputPath": "C:\\Core\\Ordering-Tests\\obj\\",
+      "projectPath": "/Users/arki/Repos/kilicarkadas/ps-test.git/Ordering-Tests/Ordering-Tests.csproj",
+      "packagesPath": "/Users/arki/.nuget/packages/",
+      "outputPath": "/Users/arki/Repos/kilicarkadas/ps-test.git/Ordering-Tests/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\arkadas.killic\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/arki/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -5679,22 +5674,23 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "Microsoft.NET.Test.Sdk": {
-            "target": "Package",
-            "version": "[15.5.0, )"
-          },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
-            "version": "[2.0.0, )",
+            "version": "2.0",
             "autoReferenced": true
-          },
-          "NUnit3TestAdapter": {
-            "target": "Package",
-            "version": "[3.9.0, )"
           },
           "nunit": {
             "target": "Package",
-            "version": "[3.9.0, )"
+            "version": "3.9.0"
+          },
+          "NUnit3TestAdapter": {
+            "target": "Package",
+            "version": "3.9.0"
+          },
+          "Microsoft.NET.Test.Sdk": {
+            "target": "Package",
+            "version": "15.5.0"
           }
         },
         "imports": [
